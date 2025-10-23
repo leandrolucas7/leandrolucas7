@@ -1,16 +1,20 @@
-## Hi there 👋
+## ✋ Hello There
 
-<!--
-**leandrolucas7/leandrolucas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leandro, currently studying computer engineering and learning more computer cool stuff that i can share here.
 
-Here are some ideas to get you started:
+### Some of the Stuff i know a little about:
+⌨️ **Programming Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Programming Tools**
+
+### Some projects of mine (not much for now):
+
+### What im learning/working on
+
+<div align="center">
+    <img src="for_frodo.gif" align="center" alt="Logo" />
+  </p>
+  <p>
+    “For Frodo.”
+  </p>
+</div>
